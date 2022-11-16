@@ -1,10 +1,10 @@
 <header>
-	<div class="wrapper">
+		<a href="index.php">
+			<img src="img/logo.webp" alt="Logo" />
+		</a>
 		<nav>
-			<a href="index.php"><img src="http://picsum.photos/100" alt="logo" class="logo"></a>
 			<a href="index.php">Home</a>
-			<a href="#">(pagina)</a>
+			<a href="informatiepagina.php">Informatiepagina</a>
 			<a href="contact.php">Contact</a>
 		</nav>
-	</div>
 </header>
